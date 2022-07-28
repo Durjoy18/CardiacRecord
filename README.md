@@ -19,3 +19,6 @@ Features
 6. Deleting records: We can delete the stored records if needed
 
 Uml Design:
+![uml design-1](https://user-images.githubusercontent.com/85967962/181607820-f59bffc8-3ad4-4ea1-b8e4-b29f5c92fd57.jpg)
+UI design:
+![UI Design_page-0001](https://user-images.githubusercontent.com/85967962/181608179-b806152b-cb19-4b4f-936c-313bf3c1026c.jpg)
