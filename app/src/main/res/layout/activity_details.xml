@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DataEntry">
+
+  <TextView
+      android:id="@+id/header"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_marginStart="38dp"
+      android:layout_marginTop="50dp"
+      android:text="Details of the records :"
+      android:textColor="@color/black"
+      android:textSize="21sp"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toTopOf="parent" />
+
+  <TextView
+      android:id="@+id/date"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_marginTop="15dp"
+      android:textColor="@color/black"
+      android:textSize="18sp"
+      app:layout_constraintStart_toStartOf="@+id/header"
+      app:layout_constraintTop_toBottomOf="@+id/header" />
+
+  <TextView
+      android:id="@+id/DdateValue"
+      android:layout_width="fill_parent"
+      android:layout_height="wrap_content"
+      android:layout_marginStart="38dp"
+      android:layout_marginEnd="30dp"
+      android:layout_marginTop="5dp"
+      android:padding="7dp"
+      android:textColor="@color/black"
+      android:textSize="15sp"
+      app:layout_constraintStart_toStartOf="@+id/header"
+      app:layout_constraintTop_toBottomOf="@+id/date" />
+
+  <TextView
+      android:id="@+id/time"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_marginTop="50dp"
+      android:textColor="@color/black"
+      android:textSize="18sp"
+      app:layout_constraintStart_toStartOf="@+id/header"
+      app:layout_constraintTop_toBottomOf="@+id/date" />
+
+  <TextView
+      android:id="@+id/DtimeValue"
+      android:layout_width="fill_parent"
+      android:layout_height="wrap_content"
+      android:layout_marginStart="38dp"
+      android:layout_marginEnd="30dp"
+      android:layout_marginTop="5dp"
+      android:padding="7dp"
+      android:textColor="@color/black"
+      android:textSize="15sp"
+      app:layout_constraintStart_toStartOf="@+id/header"
+      app:layout_constraintTop_toBottomOf="@+id/time" />
+
+  <TextView
+      android:id="@+id/systolic"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_marginTop="50dp"
+      android:textColor="@color/black"
+      android:textSize="18sp"
+      app:layout_constraintStart_toStartOf="@+id/header"
+      app:layout_constraintTop_toBottomOf="@+id/time" />
+
+  <TextView
+      android:id="@+id/DsystolicValue"
+      android:layout_width="fill_parent"
+      android:layout_height="wrap_content"
+      android:layout_marginStart="38dp"
+      android:layout_marginEnd="30dp"
+      android:layout_marginTop="5dp"
+      android:padding="7dp"
+      android:textColor="@color/black"
+      android:textSize="15sp"
+      app:layout_constraintStart_toStartOf="@+id/header"
+      app:layout_constraintTop_toBottomOf="@+id/systolic" />
+
+  <TextView
+      android:id="@+id/diastolic"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_marginTop="50dp"
+      android:textColor="@color/black"
+      android:textSize="18sp"
+      app:layout_constraintStart_toStartOf="@+id/header"
+      app:layout_constraintTop_toBottomOf="@+id/systolic" />
+
+  <TextView
+      android:id="@+id/DdiastolicValue"
+      android:layout_width="fill_parent"
+      android:layout_height="wrap_content"
+      android:layout_marginStart="38dp"
+      android:layout_marginEnd="30dp"
+      android:layout_marginTop="5dp"
+      android:inputType="number"
+      android:padding="7dp"
+      android:textColor="@color/black"
+      android:textSize="15sp"
+      app:layout_constraintStart_toStartOf="@+id/header"
+      app:layout_constraintTop_toBottomOf="@+id/diastolic" />
+
+  <TextView
+      android:id="@+id/DheartRate"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_marginTop="50dp"
+      android:textColor="@color/black"
+      android:textSize="18sp"
+      app:layout_constraintStart_toStartOf="@+id/header"
+      app:layout_constraintTop_toBottomOf="@+id/diastolic" />
+
+  <TextView
+      android:id="@+id/comment"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_marginTop="50dp"
+      android:textColor="@color/black"
+      android:textSize="18sp"
+      app:layout_constraintStart_toStartOf="@+id/header"
+      app:layout_constraintTop_toBottomOf="@+id/DheartRate" />
+
+  <TextView
+      android:id="@+id/DcommentValue"
+      android:layout_width="fill_parent"
+      android:layout_height="wrap_content"
+      android:layout_marginStart="38dp"
+      android:layout_marginEnd="30dp"
+      android:layout_marginTop="5dp"
+      android:backgroundTint="@color/white"
+      android:padding="7dp"
+      android:textColor="@color/black"
+      android:textSize="15sp"
+      app:layout_constraintStart_toStartOf="@+id/header"
+      app:layout_constraintTop_toBottomOf="@+id/comment"
+      />
+</androidx.constraintlayout.widget.ConstraintLayout>

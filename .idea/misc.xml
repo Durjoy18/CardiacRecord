@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/3.1/software Engineering lab/New folder/Health-tracker/app/src/main/res/layout/activity_details.xml" value="0.25" />
+        <entry key="..\:/CardiacRecorder/app/src/main/res/drawable/ic_splash.xml" value="0.1365" />
+        <entry key="..\:/CardiacRecorder/app/src/main/res/drawable/ic_top_vector.xml" value="0.1365" />
+        <entry key="..\:/CardiacRecorder/app/src/main/res/layout/activity_data_entry.xml" value="0.22146739130434784" />
+        <entry key="..\:/CardiacRecorder/app/src/main/res/layout/activity_details.xml" value="0.22146739130434784" />
+        <entry key="..\:/CardiacRecorder/app/src/main/res/layout/activity_main.xml" value="0.22146739130434784" />
+        <entry key="..\:/CardiacRecorder/app/src/main/res/layout/activity_splash_screen.xml" value="0.22146739130434784" />
+        <entry key="..\:/CardiacRecorder/app/src/main/res/layout/activity_update.xml" value="0.22146739130434784" />
+        <entry key="..\:/CardiacRecorder/app/src/main/res/layout/singlerow.xml" value="0.22146739130434784" />
+        <entry key="..\:/Health-tracker-main/app/src/main/res/layout/activity_data_entry.xml" value="0.12158054711246201" />
+        <entry key="..\:/Health-tracker-main/app/src/main/res/layout/activity_update.xml" value="0.22826086956521738" />
+        <entry key="..\:/Health-tracker-main/app/src/main/res/layout/singlerow.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Jami/AndroidStudioProjects/HeathMonitor/app/src/main/res/layout/activity_data_entry.xml" value="0.12605042016806722" />
+        <entry key="..\:/Users/Jami/AndroidStudioProjects/HeathMonitor/app/src/main/res/layout/activity_main.xml" value="0.2359375" />
+        <entry key="..\:/Users/Jami/AndroidStudioProjects/HeathMonitor/app/src/main/res/layout/singlerow.xml" value="0.2" />
+        <entry key="..\:/Users/Jami/Desktop/Health-tracker/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.1785" />
+        <entry key="..\:/Users/Jami/Desktop/Health-tracker/app/src/main/res/drawable/ic_baseline_edit_24.xml" value="0.1785" />
+        <entry key="..\:/Users/Jami/Desktop/Health-tracker/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/Jami/Desktop/Health-tracker/app/src/main/res/drawable/ic_splash.xml" value="0.1305" />
+        <entry key="..\:/Users/Jami/Desktop/Health-tracker/app/src/main/res/layout/activity_data_entry.xml" value="0.264" />
+        <entry key="..\:/Users/Jami/Desktop/Health-tracker/app/src/main/res/layout/activity_details.xml" value="0.25" />
+        <entry key="..\:/Users/Jami/Desktop/Health-tracker/app/src/main/res/layout/activity_heart_rate_input.xml" value="0.25" />
+        <entry key="..\:/Users/Jami/Desktop/Health-tracker/app/src/main/res/layout/activity_main.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/Jami/Desktop/Health-tracker/app/src/main/res/layout/activity_splash_screen.xml" value="0.21920289855072464" />
+        <entry key="..\:/Users/Jami/Desktop/Health-tracker/app/src/main/res/layout/activity_update.xml" value="0.25" />
+        <entry key="..\:/Users/Jami/Desktop/Health-tracker/app/src/main/res/layout/singlerow.xml" value="0.152" />
+      </map>
+    </option>
+  </component>
+  <component name="JavadocGenerationManager">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../../../JavaDoc/record" />
+    <option name="OPTION_SCOPE" value="public" />
+    <option name="OPTION_INCLUDE_LIBS" value="true" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
